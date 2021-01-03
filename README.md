@@ -9,4 +9,4 @@ I'm comfortable throughout the stack, but my passion lies in the front end, at t
 
 ---
 
-© 2017 PM
+© 2020 PM
