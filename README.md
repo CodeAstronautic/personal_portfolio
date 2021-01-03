@@ -1,13 +1,12 @@
-# Sophia Ciocca
+#pooja mishra
 
-#### [sophiaciocca.com](http://sophiaciocca.com)
 
-Hi! I'm Sophia. I'm a full-stack software developer based in NYC.
 
-I'm comfortable throughout the stack, but my passion lies in the front end, at the intersection of code and design. I currently build software for the newsroom at the New York Times.
+Hi! I'm pooja. I'm a full-stack software developer based in globalia.
 
-Previously, I've taught code to women at the Grace Hopper Program, served in the Peace Corps, and management consulted for Fortune 100 companies. I also hold a degree in economics from the University of Pennsylvania.
+I'm comfortable throughout the stack, but my passion lies in the front end, at the intersection of code and design. 
+
 
 ---
 
-© 2017 Sophia Ciocca
+© 2017 PM
