@@ -20,14 +20,14 @@ class Writing extends Component {
             <a href="https://medium.com/@mpooja_15/list-of-frontend-technologies-be681d496601" target="_blank">List Of Frontend Technologies.</a>
             <Date>October 4, 2020 </Date>
           </li>
-        <li>
+        {/* <li>
             <a href="https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21" target="_blank">Building a Text Editor for a Digital-First Newsroom</a>
             <Date>April 12, 2018</Date>
           </li>
           <li>
             <a href="https://hackernoon.com/how-i-landed-my-post-bootcamp-software-developer-job-in-just-seven-weeks-7b213c1bb867" target="_blank">How I landed my post-bootcamp software developer job in just seven weeks</a>
             <Date>November 1, 2017</Date>
-          </li>
+          </li> */}
           <li>
             <a href="https://medium.com/@mpooja_15/its-hard-to-trust-that-python-1990-was-introduced-5-years-earlier-than-java-1995-4751550b1286" target="_blank">Django Authentication Information</a>
             <Date>August 23, 2020 </Date>
