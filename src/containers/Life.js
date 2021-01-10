@@ -33,36 +33,38 @@ class Life extends Component {
         </div>
         {/*Row 1*/}
         <LifeRow className="row">
-          <div className="col-md-6 col-sm-12">
-            <a href="http://sophiacioccaphotography.tumblr.com/" target="_blank">
+          {/* <div className="col-md-6 col-sm-12"> */}
+          {/* <a href="http://sophiacioccaphotography.tumblr.com/" target="_blank">
               <LifeThumbnail src={require('../assets/photoguy.jpg')}/>
               <LifeHeader>my photography</LifeHeader>
             </a>
             <LifeProjectBlurb>Here's where i keep some of my photographs. Check it out!</LifeProjectBlurb>
-          </div>
-          <div className="col-md-6 col-sm-12">
+          </div> */}
+          {/* <div className="col-md-6 col-sm-12">
             <a href="https://www.instagram.com/sidewalk_poetry/" target="_blank">
               <LifeThumbnail src={require('../assets/sidewalkpoetry.jpg')}/>
               <LifeHeader>sidewalk_poetry</LifeHeader>
             </a>
             <LifeProjectBlurb>I write poetry on the sidewalks, because street art makes the world a better place.</LifeProjectBlurb>
-          </div>
+          </div> */}
         </LifeRow>
         {/*Row 2*/}
         <div className="row">
-          <div className="col-md-6 col-sm-12">
+          {/* <div className="col-md-6 col-sm-12">
             <a href="http://artandfragments.tumblr.com/" target="_blank">
               <LifeThumbnail src={require('../assets/artandfragments.jpg')}/>
               <LifeHeader>art and fragments</LifeHeader>
             </a>
             <LifeProjectBlurb>I'm into creative writing. Here's where i put all of my unfinished poetic tidbits. And hey -- all art is unfinished, right?</LifeProjectBlurb>
-          </div>
+          </div> */}
           <div className="col-md-6 col-sm-12">
-            <a href="https://www.youtube.com/channel/UChfrVcFHC-mfoqrJHuOYt-Q" target="_blank">
-              <LifeThumbnail src={require('../assets/jennysing.jpg')}/>
-              <LifeHeader>jenny & sophia sing</LifeHeader>
+            <a href="https://www.youtube.com/c/TechWithP" target="_blank">
+              <LifeThumbnail src={require('../assets/jennysing.jpg')} />
+              <LifeHeader>My Community-TechWithP</LifeHeader>
             </a>
-            <LifeProjectBlurb>My best friend and i make acoustic covers of songs. Listen to us here!</LifeProjectBlurb>
+            <LifeProjectBlurb>
+              TechWithP is a platform that helps coders and developers to in E learning ,make people aware about their findings, choose their mentor, helping others.
+</LifeProjectBlurb>
           </div>
         </div>
       </div>

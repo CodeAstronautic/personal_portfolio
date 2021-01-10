@@ -33,7 +33,7 @@ const ContainerDiv = styled.div`
 class App extends Component {
   render() {
     return (
-      <AppDiv>
+      <AppDiv >
         <Header />
         <ContainerDiv>
           {this.props.children}

@@ -147,7 +147,7 @@ class Code extends Component {
           </div>
         </div>
         <hr />
-        <div>
+        {/* <div>
           <CenteredHeader>Recent work:</CenteredHeader>
           <PortRow>
             <a href="https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21" target="_blank">
@@ -300,7 +300,7 @@ class Code extends Component {
               </UsedList>
             </PortAllText>
           </PortRow>
-        </div>
+        </div> */}
       </div>
     );
   }

@@ -9,7 +9,7 @@ import Life from './containers/Life'
 import Contact from './containers/Contact'
 
 export default (
-    <Router history={hashHistory}>
+    <Router history={hashHistory} >
       <Route path='/' component={App}>
         <IndexRoute component={Home}/>
         <Route path='/code' component={Code} />

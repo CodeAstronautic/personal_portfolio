@@ -17,8 +17,8 @@ class Writing extends Component {
         <h5>Tech-related:</h5>
         <ul>
         <li>
-            <a href="https://open.nytimes.com/we-built-collaborative-editing-for-our-newsrooms-cms-here-s-how-415618a3ec49" target="_blank">We Built Collaborative Editing for Our Newsroom’s CMS. Here’s How.</a>
-            <Date>August 1, 2019 - Co-authored with Jeff Sisson</Date>
+            <a href="https://medium.com/@mpooja_15/list-of-frontend-technologies-be681d496601" target="_blank">List Of Frontend Technologies.</a>
+            <Date>October 4, 2020 </Date>
           </li>
         <li>
             <a href="https://open.nytimes.com/building-a-text-editor-for-a-digital-first-newsroom-f1cb8367fc21" target="_blank">Building a Text Editor for a Digital-First Newsroom</a>
@@ -29,10 +29,10 @@ class Writing extends Component {
             <Date>November 1, 2017</Date>
           </li>
           <li>
-            <a href="https://hackernoon.com/spotifys-discover-weekly-how-machine-learning-finds-your-new-music-19a41ab76efe" target="_blank">Spotify’s Discover Weekly: How machine learning finds your new music</a>
-            <Date>October 10, 2017 (#3 on Hackernews!)</Date>
+            <a href="https://medium.com/@mpooja_15/its-hard-to-trust-that-python-1990-was-introduced-5-years-earlier-than-java-1995-4751550b1286" target="_blank">Django Authentication Information</a>
+            <Date>August 23, 2020 </Date>
           </li>
-          <li>
+          {/* <li>
             <a href="https://medium.com/ladies-storm-hackathons/how-we-built-our-first-full-stack-javascript-web-app-in-three-weeks-8a4668dbd67c" target="_blank">How we built our first full-stack JavaScript web app in three weeks</a>
             <Date>August 9, 2017</Date>
           </li>
@@ -43,9 +43,9 @@ class Writing extends Component {
           <li>
             <a href="https://medium.com/personal-growth/f-ck-impostor-syndrome-im-finally-learning-to-code-a9b9328d73d9" target="_blank">F*ck Impostor Syndrome, Im finally learning to code.</a>
             <Date>April 10, 2017</Date>
-          </li>
+          </li> */}
         </ul>
-        <h5>Other:</h5>
+        {/* <h5>Other:</h5>
         <ul>
           <li>
             <a href="https://medium.com/personal-growth/mind-surgery-my-10-day-silent-meditation-retreat-92e420e5b6fa" target="_blank">"Mind-Surgery": My 10-Day Silent Meditation Retreat </a>
@@ -63,9 +63,9 @@ class Writing extends Component {
             <a href="https://medium.com/personal-growth/2016-the-year-i-burned-down-and-began-to-rebuild-myself-ed325fe1fef8" target="_blank">2016: The Year I Burned Down and Began to Rebuild Myself </a>
             <Date>December 30, 2016</Date>
           </li>
-        </ul>
+        </ul> */}
         <div>
-          <CenteredHeader>Read more on <a href="https://medium.com/@sophiaciocca/latest" target="_blank"><i className="fa fa-medium fa-fw" />Medium</a>.</CenteredHeader>
+          <CenteredHeader>Read more on <a href="https://medium.com/@mpooja_15" target="_blank"><i className="fa fa-medium fa-fw" />Medium</a>.</CenteredHeader>
         </div>
       </div>
     );
